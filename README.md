@@ -1,1 +1,2 @@
-# USRP2016
+Setting up directory now # USRP2016
+
